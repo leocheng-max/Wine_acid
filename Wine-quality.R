@@ -11,7 +11,6 @@ wine_analysis <- wine[,-ncol(wine)]
 # 檢查整個資料集是否有任何缺失值（回傳 TRUE/FALSE）
 any(is.na(wine_analysis))
 
-
 # 介紹變數性質
 
 # fixed.acidity: 主要指的是葡萄酒中不易揮發的有機酸（如酒石酸 Tartaric acid、蘋果酸 Malic acid 等），
