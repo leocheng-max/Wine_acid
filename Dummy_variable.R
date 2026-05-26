@@ -13,3 +13,4 @@ wine_analysis <- wine_analysis[, !names(wine) %in% c("quality")]
 table(wine_analysis$good_wine)
 
 summary(wine_analysis)
+head(wine_analysis$good_wine)
