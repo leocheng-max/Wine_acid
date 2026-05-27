@@ -28,7 +28,7 @@ any(is.na(wine_analysis))
 # chlorides: 它代表的是葡萄酒中含鹽量（Saltiness）的指標，主要的化學成分是氯化鈉
 # 單位: g/L{克／公升})。
 
-# free.sular.dioxide: 游離二氧化硫的「總和」,這是釀酒師維持紅酒壽命與品質的 「終極防腐與抗氧化劑」
+# free.sulfur.dioxide: 游離二氧化硫的「總和」,這是釀酒師維持紅酒壽命與品質的 「終極防腐與抗氧化劑」
 # 單位: mg/L (毫克／公升)
 
 # total.sulfur.dioxide: 它是葡萄酒中所有形式二氧化硫的「總和」。
