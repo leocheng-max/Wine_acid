@@ -237,3 +237,4 @@ ggplot(wine_ready, aes(x = alcohol, y =good_wine)) +
   
   # 加上標準的課本標籤
   labs(x = "alcohol", y = "good_wine")
+
